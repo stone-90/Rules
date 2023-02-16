@@ -1,0 +1,34 @@
+# Bing
+# time_20230216
+HOST, bj1.api.bing.com, Bing
+HOST, bj1.api.bing.com, Bing
+HOST, emoi-cncdn.bing.com, Bing
+HOST-SUFFIX, bbing.com, Bing
+HOST-SUFFIX, bing, Bing
+HOST-SUFFIX, bing.com, Bing
+HOST-SUFFIX, bing.com.cn, Bing
+HOST-SUFFIX, bing.net, Bing
+HOST-SUFFIX, bing123.com, Bing
+HOST-SUFFIX, bing135.com, Bing
+HOST-SUFFIX, bing4.com, Bing
+HOST-SUFFIX, bingads.com, Bing
+HOST-SUFFIX, bingagencyawards.com, Bing
+HOST-SUFFIX, bingapis.com, Bing
+HOST-SUFFIX, bingapistatistics.com, Bing
+HOST-SUFFIX, binginternal.com, Bing
+HOST-SUFFIX, bingit.net, Bing
+HOST-SUFFIX, bingiton.com, Bing
+HOST-SUFFIX, bingj.com, Bing
+HOST-SUFFIX, bingpix.com, Bing
+HOST-SUFFIX, bingpk.com, Bing
+HOST-SUFFIX, bings.com, Bing
+HOST-SUFFIX, bingsandbox.com, Bing
+HOST-SUFFIX, bingtoolbar.com, Bing
+HOST-SUFFIX, bingtranslator.com, Bing
+HOST-SUFFIX, bingvisualsearch.com, Bing
+HOST-SUFFIX, bingworld.com, Bing
+HOST-SUFFIX, discoverbing.com, Bing
+HOST-SUFFIX, explorebing.com, Bing
+HOST-SUFFIX, msxiaobing.com, Bing
+HOST-SUFFIX, working-bing-int.com, Bing
+
